@@ -1,5 +1,6 @@
 streamlit==1.39.0
-st-audiorec==0.1.3
-SpeechRecognition==3.10.4
-pydub==0.25.1
+streamlit
+SpeechRecognition
+pydub
+git+https://github.com/stefanrmmr/streamlit-audiorec.git
 
